@@ -1,9 +1,25 @@
 <!DOCTYPE html>
 <html>
+<style>
+p 
+{ text-align-last:center; color: red
+}
+
+pre 
+{ text-align-last:center; color: red
+}
+
+h1 
+{ color: navy    
+}
+
+
+
+</style>
 <body style="background-color:chocolate">
 
    <h1> this is a text </h1>
-    <p style="text-align:center; font-family: 'Times New Roman', Times, serif;;font-size: 150%"><i>this is a test of html</i> </p>
+    <p style="color: purple;text-align:center; font-family: 'Times New Roman', Times, serif;;font-size: 150%"><i>this is a test of html</i> </p>
 
     <img src="https://www.bl.uk/britishlibrary/~/media/bl/global/picturing%20places/maps%20ktop38151.jpg">
 
