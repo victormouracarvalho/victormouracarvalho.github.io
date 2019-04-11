@@ -1,14 +1,29 @@
 <!DOCTYPE html>
 <html>
-<body>
+<body style="background-color:chocolate">
+
    <h1> this is a text </h1>
-    <p>ushdhasuhsuausahduahsudhsaudhusahd </p>
+    <p style="text-align:center; font-family: 'Times New Roman', Times, serif;;font-size: 150%"><i>this is a test of html</i> </p>
+
+    <img src="https://www.bl.uk/britishlibrary/~/media/bl/global/picturing%20places/maps%20ktop38151.jpg">
+
+     <pre style="color: purple">
+        i'm the working man
+
+        like rush says
+
+    </pre>
+    <p>this is <del> a line </del> and a <sub>subscripted</sub>paragraph and<ins>inserted</ins> and <mark> marked</mark></p>
 
 
-    <p><a href="https://pkgs.org/download/git"> sai pro google </a><p>
 
 
 </body>
+
+
+
+
+
 
 <!-- CTRL+Q S;; live html preview -->
 </html>
