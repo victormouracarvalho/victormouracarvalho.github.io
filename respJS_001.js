@@ -83,7 +83,7 @@ function Q4() {
 
 
 
-    function Q5() {
+   function Q5() {
         console.log('Q5');
         var altura = Number.parseFloat(document.getElementById('altura').value);
         var peso = Number.parseFloat(document.getElementById('peso').value);
@@ -93,13 +93,13 @@ function Q4() {
         var wy = (peso/Math.pow(altura,2))
         console.log('Valor IMC =' + (peso/Math.pow(altura,2)))
         if (wy  < 18.5) {
-            console.log('magro(a)')
+            console.log(genero + ' '+'magro(a)')
         } else if (wy < 24.9) {
-            console.log('Sarado(a)')
+            console.log(genero + ' '+'Sarado(a)')
         } else if (wy < 30) {
-            console.log('rechonchudo(a)')
+            console.log(genero + ' '+'rechonchudo(a)')
         } else if (wy > 30) {
-            console.log('obeso(a)')
+            console.log(genero + ' '+ 'obeso(a)')
         }
 
 
